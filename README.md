@@ -1,3 +1,4 @@
 # Soumik-Dey
-passionate about clean architecture, scalable systems, and dark mode
-
+Developer and digital creator.
+<br>
+Bridging logic and creativity🚀
